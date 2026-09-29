@@ -1,5 +1,5 @@
 // Configuracion general de la pantalla de registro.
-const URL_API = "http://localhost:8081";
+const URL_API = API_BASE_URL;
 const DURACION_TOAST_MS = 3500;
 
 const elementos = {
