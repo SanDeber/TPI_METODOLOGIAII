@@ -8,8 +8,6 @@ Plataforma web de venta de productos de pintura, desarrollada como Trabajo Prác
 ![DB](https://img.shields.io/badge/DB-PostgreSQL-336791)
 ![Licencia](https://img.shields.io/badge/licencia-sin%20definir-lightgrey)
 
-📸 *Pendiente: screenshots del catálogo, checkout y paneles de vendedor/admin.*
-
 ---
 
 ## Índice
